@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-Repositori ini adalah **kumpulan contoh dan latihan** untuk mempelajari **Spring Boot** dari dasar hingga menengah. Proyek ini dirancang untuk membantu Anda memahami konsep-konsep penting seperti Dependency Injection, Bean Lifecycle, Event Listener, Command Line Runner, dan masih banyak lagi.
+Repositori ini adalah **kumpulan contoh dan latihan** untuk mempelajari **Spring Boot** dari dasar hingga menengah. Proyek ini dirancang untuk membantu memahami konsep-konsep penting seperti Dependency Injection, Bean Lifecycle, Event Listener, Command Line Runner, dan masih banyak lagi.
 ---
 
 ## 🌟 **Fitur Utama**
