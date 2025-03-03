@@ -1,8 +1,7 @@
 # Belajar Spring Boot 🚀
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.0-green.svg)
-![Java](https://img.shields.io/badge/Java-17-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.3-green.svg)
+![Java](https://img.shields.io/badge/Java-23-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 Repositori ini adalah **kumpulan contoh dan latihan** untuk mempelajari **Spring Boot** dari dasar hingga menengah. Proyek ini dirancang untuk membantu memahami konsep-konsep penting seperti Dependency Injection, Bean Lifecycle, Event Listener, Command Line Runner, dan masih banyak lagi.
